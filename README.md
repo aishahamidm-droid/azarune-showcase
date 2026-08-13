@@ -4,7 +4,7 @@
 
 ![Azarune feature graphic](assets/feature-graphic.png)
 
-**Azarune is a 3D fantasy adventure for Android that introduces players to the jungle world of Azarune through a guided trial.** Players explore, collect Soul Gems, pursue an ancient relic, survive environmental hazards, and progress toward the portal.
+**Azarune is a fantasy adventure for Android that introduces players to the jungle world of Azarune through a guided trial.** Players explore, collect Soul Gems, pursue an ancient relic, survive environmental hazards, and progress toward the portal.
 
 ## Play experience
 
